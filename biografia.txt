@@ -1,9 +1,6 @@
-Mi nombre es Rene Marco Gudmundsson Pozo, tengo 43 años
-y vivo en Cochabamba-Bolivia
+Mi nombre es Rene Marco Gudmundsson Pozo,
 Soy el CTO Platzi y en mis tiempos libres juego 
-tennis, escribo libros y sere un gran progrmador
-BackEnd!!!!!
+tennis, escribo libros y hago cosas raras con
+Raspberry Pis
 
-Esta es el comienczo de mi nueva vida!!!
-
-Esta es la mejor de las carreas!!!
+Ahora se hablara de la vida laboral de Rene...
